@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
-import { Paintbrush, Home, ExternalLink, CheckCircle, Star, Phone, Mail, MapPin, Eye, Target, Droplet, Palette, Brush, Ruler } from "lucide-react"
+import {  CheckCircle,  Eye, Target,  Palette, Brush, Ruler } from "lucide-react"
 import Navbar from "../components/ui/Navbar"
 import Image from "next/image"
 import Footer from "../components/ui/footer"
@@ -42,7 +42,7 @@ export default function KingdomPaintingLandingPage() {
                                     At Kingdom Painting, we believe that a fresh coat of paint can truly transform your living or working space. With years of experience and a passion for perfection, our team of skilled painters is dedicated to bringing your vision to life.
                                 </p>
                                 <p className="text-lg text-gray-700 mb-6">
-                                    We take pride in our attention to detail, use of premium materials, and commitment to customer satisfaction. Whether you're looking to refresh your home's interior or give your business a new look, Kingdom Painting is here to exceed your expectations.
+                                    We take pride in our attention to detail, use of premium materials, and commitment to customer satisfaction. Whether you&#39;re looking to refresh your home&#39;s interior or give your business a new look, Kingdom Painting is here to exceed your expectations.
                                 </p>
                                 <div className="flex flex-wrap gap-4">
                                     <div className="flex items-center space-x-2">
@@ -171,7 +171,7 @@ export default function KingdomPaintingLandingPage() {
                                         </li>
                                     </ul>
                                     <p className="text-gray-700 mb-6">
-                                        Protect and beautify your home's exterior with our professional painting services. We use durable, weather-resistant paints to ensure a long-lasting finish that stands up to the elements.
+                                        Protect and beautify your home&#39;s exterior with our professional painting services. We use durable, weather-resistant paints to ensure a long-lasting finish that stands up to the elements.
                                     </p>
                                    
                                 </CardContent>
@@ -343,7 +343,7 @@ export default function KingdomPaintingLandingPage() {
                             <Card>
                                 <CardContent className="p-6">
                                     <p className="text-gray-700 mb-4">
-                                        "Kingdom Painting transformed our home! Their attention to detail and professionalism were outstanding. We couldn't be happier with the results."
+                                    &#34;Kingdom Painting transformed our home! Their attention to detail and professionalism were outstanding. We couldn&#39;t be happier with the results.&#34;
                                     </p>
                                     <div className="flex items-center">
                                         <img
@@ -361,7 +361,7 @@ export default function KingdomPaintingLandingPage() {
                             <Card>
                                 <CardContent className="p-6">
                                     <p className="text-gray-700 mb-4">
-                                        "We hired Kingdom Painting for our office renovation, and they exceeded our expectations. The team was efficient, clean, and the end result is fantastic!"
+                                    &#34;We hired Kingdom Painting for our office renovation, and they exceeded our expectations. The team was efficient, clean, and the end result is fantastic!&#34;
                                     </p>
                                     <div className="flex items-center">
                                         <img
@@ -379,7 +379,7 @@ export default function KingdomPaintingLandingPage() {
                             <Card>
                                 <CardContent className="p-6">
                                     <p className="text-gray-700 mb-4">
-                                        "The specialty finish Kingdom Painting created for our restaurant adds so much character. It's become a talking point for our customers!"
+                                    &#34;The specialty finish Kingdom Painting created for our restaurant adds so much character. It&#39;s become a talking point for our customers!&#34;
                                     </p>
                                     <div className="flex items-center">
                                         <img
